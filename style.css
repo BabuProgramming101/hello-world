@@ -12,8 +12,17 @@ h1{
 p{
     background-color: turquoise;
     color: white;
+    font-size: 15px;
 }
 em{
     background-color: magenta;
-    color: white;
+    color: orange;
+}
+.services i{
+    font-size: 60px;
+    padding: 20px 80px;
+}
+.container img{
+    width: 120px;
+    height: 140px;
 }
